@@ -3,9 +3,9 @@
 Research Paper: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 # overview of the paper
-- figure 1: viual overview of the architecture
-- four equations: math equations which define the function ofeach layer/block
-- table 1/3: diffrente hyperparamters for the architecture/trianing.
+- figure 1: visual overview of the architecture
+- four equations: math equations which define the function of each layer/block
+- table 1/3: different hyperparameters for the architecture/training.
 - text
 
 ### figure 1
